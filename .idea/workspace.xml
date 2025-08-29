@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructurePractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Check_Even_Odd_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Multiplication_Table_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Sum_Of_Square_Of_n_Natural_Number_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Sum_Of_n_Natural_Numbers_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Dice_Problem_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Nth_term_AP_From_First_Two_Terms_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Swap_Two_Numbers_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +46,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sum_Of_Square_Of_n_Natural_Number_4">
-    <configuration name="Check_Even_Odd_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Check_Even_Odd_1" />
+  <component name="RunManager" selected="Application.Nth_term_AP_From_First_Two_Terms_7">
+    <configuration name="Dice_Problem_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Dice_Problem_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication_Table_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Multiplication_Table_2" />
+    <configuration name="Find_Closest_to_n_And_Divisible_By_m_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Find_Closest_to_n_And_Divisible_By_m_6" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LogicBuildingProblems_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nth_term_AP_From_First_Two_Terms_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Nth_term_AP_From_First_Two_Terms_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Of_n_Natural_Numbers_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Sum_Of_n_Natural_Numbers_3" />
+    <configuration name="Swap_Two_Numbers_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.Swap_Two_Numbers_5" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -109,10 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nth_term_AP_From_First_Two_Terms_7" />
+        <item itemvalue="Application.Dice_Problem_6" />
+        <item itemvalue="Application.Find_Closest_to_n_And_Divisible_By_m_6" />
+        <item itemvalue="Application.Swap_Two_Numbers_5" />
         <item itemvalue="Application.Sum_Of_Square_Of_n_Natural_Number_4" />
-        <item itemvalue="Application.Sum_Of_n_Natural_Numbers_3" />
-        <item itemvalue="Application.Multiplication_Table_2" />
-        <item itemvalue="Application.Check_Even_Odd_1" />
       </list>
     </recent_temporary>
   </component>
