@@ -1,4 +1,4 @@
-package LogicBuildingProblems_01;
+package LogicBuildingProblems_01.basic_problems_1;
 /*
 You are given a cubic dice with 6 faces. All the individual faces have a number printed on them.
 The numbers are in the range of 1 to 6, like any ordinary dice.

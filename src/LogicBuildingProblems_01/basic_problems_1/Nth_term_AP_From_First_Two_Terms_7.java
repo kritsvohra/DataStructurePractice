@@ -1,4 +1,4 @@
-package LogicBuildingProblems_01;
+package LogicBuildingProblems_01.basic_problems_1;
 
 public class Nth_term_AP_From_First_Two_Terms_7 {
 
