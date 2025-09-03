@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CheckIfNumberIsPowerOfOtherNumber_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CheckPrimeNumber_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/ReverseDigitsOfNumber_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/SumOfDigits_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CalculateDistanceBetweenTwoPoints_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CheckWhetherTriangleIsValidOrNot_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/Factorial_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/PairCubeCount_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Check_Even_Odd_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Check_Even_Odd_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Dice_Problem_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Dice_Problem_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Multiplication_Table_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Multiplication_Table_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Nth_term_AP_From_First_Two_Terms_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Nth_term_AP_From_First_Two_Terms_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Sum_Of_Square_Of_n_Natural_Number_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Sum_Of_Square_Of_n_Natural_Number_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Sum_Of_n_Natural_Numbers_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Sum_Of_n_Natural_Numbers_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicBuildingProblems_01/Swap_Two_Numbers_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/basic_problems_1/Swap_Two_Numbers_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckIfNumberIsPowerOfOtherNumber_4">
+  <component name="RunManager" selected="Application.PairCubeCount_8">
+    <configuration name="CalculateDistanceBetweenTwoPoints_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CalculateDistanceBetweenTwoPoints_5" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckIfNumberIsPowerOfOtherNumber_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CheckIfNumberIsPowerOfOtherNumber_4" />
       <module name="DataStructurePractice" />
@@ -70,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPrimeNumber_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CheckPrimeNumber_3" />
+    <configuration name="CheckWhetherTriangleIsValidOrNot_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CheckWhetherTriangleIsValidOrNot_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -83,21 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nth_term_AP_From_First_Two_Terms_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.basic_problems_1.Nth_term_AP_From_First_Two_Terms_7" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.basic_problems_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseDigitsOfNumber_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.ReverseDigitsOfNumber_2" />
+    <configuration name="Factorial_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.Factorial_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.SumOfDigits_1" />
+    <configuration name="PairCubeCount_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.PairCubeCount_8" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairCubeCount_8" />
+        <item itemvalue="Application.Factorial_7" />
+        <item itemvalue="Application.CheckWhetherTriangleIsValidOrNot_6" />
+        <item itemvalue="Application.CalculateDistanceBetweenTwoPoints_5" />
         <item itemvalue="Application.CheckIfNumberIsPowerOfOtherNumber_4" />
-        <item itemvalue="Application.CheckPrimeNumber_3" />
-        <item itemvalue="Application.ReverseDigitsOfNumber_2" />
-        <item itemvalue="Application.SumOfDigits_1" />
-        <item itemvalue="Application.LogicBuildingProblems_01.basic_problems_1.Nth_term_AP_From_First_Two_Terms_7" />
       </list>
     </recent_temporary>
   </component>
