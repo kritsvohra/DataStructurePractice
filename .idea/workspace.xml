@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CalculateDistanceBetweenTwoPoints_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CheckWhetherTriangleIsValidOrNot_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/Factorial_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/PairCubeCount_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/FindGCDOfTwoNumbers_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/FindLCMOfTwoNumbers_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/NthFibonacciNumber_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/PerfectNumber_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +48,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PairCubeCount_8">
-    <configuration name="CalculateDistanceBetweenTwoPoints_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CalculateDistanceBetweenTwoPoints_5" />
+  <component name="RunManager" selected="Application.NthFibonacciNumber_12">
+    <configuration name="FindGCDOfTwoNumbers_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.FindGCDOfTwoNumbers_9" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckIfNumberIsPowerOfOtherNumber_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CheckIfNumberIsPowerOfOtherNumber_4" />
+    <configuration name="FindLCMOfTwoNumbers_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.FindLCMOfTwoNumbers_10" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -75,21 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckWhetherTriangleIsValidOrNot_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CheckWhetherTriangleIsValidOrNot_6" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.Factorial_7" />
+    <configuration name="NthFibonacciNumber_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.NthFibonacciNumber_12" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PerfectNumber_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.PerfectNumber_11" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NthFibonacciNumber_12" />
+        <item itemvalue="Application.PerfectNumber_11" />
+        <item itemvalue="Application.FindLCMOfTwoNumbers_10" />
+        <item itemvalue="Application.FindGCDOfTwoNumbers_9" />
         <item itemvalue="Application.PairCubeCount_8" />
-        <item itemvalue="Application.Factorial_7" />
-        <item itemvalue="Application.CheckWhetherTriangleIsValidOrNot_6" />
-        <item itemvalue="Application.CalculateDistanceBetweenTwoPoints_5" />
-        <item itemvalue="Application.CheckIfNumberIsPowerOfOtherNumber_4" />
       </list>
     </recent_temporary>
   </component>
