@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/ArmstrongNumber_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/CheckIfNumberIsPalindrome_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/FindNthTermOfSeries_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/easy_problems_2/RepeatedDigitalSumOFNumber_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CheckIfLargeNumberDivisibleBy11_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CheckIfLargeNumberIsDivisibleBy4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CountNumbersWithExactly3Divisors_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/FIndSquareRootOfNumber_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +48,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RepeatedDigitalSumOFNumber_16">
-    <configuration name="ArmstrongNumber_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.ArmstrongNumber_13" />
+  <component name="RunManager" selected="Application.CheckIfLargeNumberDivisibleBy11_4">
+    <configuration name="CheckIfLargeNumberDivisibleBy11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CheckIfLargeNumberDivisibleBy11_4" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckIfNumberIsPalindrome_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.CheckIfNumberIsPalindrome_15" />
+    <configuration name="CheckIfLargeNumberIsDivisibleBy4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CheckIfLargeNumberIsDivisibleBy4_3" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNthTermOfSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.FindNthTermOfSeries" />
+    <configuration name="CountNumbersWithExactly3Divisors_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CountNumbersWithExactly3Divisors_2" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthFibonacciNumber_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.NthFibonacciNumber_12" />
+    <configuration name="FIndSquareRootOfNumber_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.FIndSquareRootOfNumber_1" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckIfLargeNumberDivisibleBy11_4" />
+        <item itemvalue="Application.CheckIfLargeNumberIsDivisibleBy4_3" />
+        <item itemvalue="Application.CountNumbersWithExactly3Divisors_2" />
+        <item itemvalue="Application.FIndSquareRootOfNumber_1" />
         <item itemvalue="Application.RepeatedDigitalSumOFNumber_16" />
-        <item itemvalue="Application.CheckIfNumberIsPalindrome_15" />
-        <item itemvalue="Application.ArmstrongNumber_13" />
-        <item itemvalue="Application.FindNthTermOfSeries" />
-        <item itemvalue="Application.NthFibonacciNumber_12" />
       </list>
     </recent_temporary>
   </component>
