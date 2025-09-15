@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CheckIfLargeNumberDivisibleBy11_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CheckIfLargeNumberIsDivisibleBy4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CountNumbersWithExactly3Divisors_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/FIndSquareRootOfNumber_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicBuildingProblems_01/medium_problems_3/CheckIfLargeNumberDivisibleBy13_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayInsertions_2/InsertElementAtBeginningOfArray_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayInsertions_2/InsertElementAtGivenPositionInArray_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayTraversal_1/IncreaseEachArrayElementBy5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayTraversal_1/SearchingElementsInArray_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayTraversal_1/TraverseAndPrint_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +50,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckIfLargeNumberDivisibleBy11_4">
-    <configuration name="CheckIfLargeNumberDivisibleBy11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CheckIfLargeNumberDivisibleBy11_4" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InsertElementAtGivenPositionInArray_2">
+    <configuration name="CheckIfLargeNumberDivisibleBy13_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CheckIfLargeNumberDivisibleBy13_5" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckIfLargeNumberIsDivisibleBy4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CheckIfLargeNumberIsDivisibleBy4_3" />
+    <configuration name="InsertElementAtBeginningOfArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayInsertions_2.InsertElementAtBeginningOfArray_1" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
+          <option name="PATTERN" value="arrays.arrayInsertions_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountNumbersWithExactly3Divisors_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.CountNumbersWithExactly3Divisors_2" />
+    <configuration name="InsertElementAtGivenPositionInArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayInsertions_2.InsertElementAtGivenPositionInArray_2" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
+          <option name="PATTERN" value="arrays.arrayInsertions_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIndSquareRootOfNumber_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.medium_problems_3.FIndSquareRootOfNumber_1" />
+    <configuration name="SearchingElementsInArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayTraversal_1.SearchingElementsInArray_2" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.medium_problems_3.*" />
+          <option name="PATTERN" value="arrays.arrayTraversal_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedDigitalSumOFNumber_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicBuildingProblems_01.easy_problems_2.RepeatedDigitalSumOFNumber_16" />
+    <configuration name="arrays.arrayTraversal_1.IncreaseEachArrayElementBy5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayTraversal_1.IncreaseEachArrayElementBy5_3" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicBuildingProblems_01.easy_problems_2.*" />
+          <option name="PATTERN" value="arrays.arrayTraversal_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckIfLargeNumberDivisibleBy11_4" />
-        <item itemvalue="Application.CheckIfLargeNumberIsDivisibleBy4_3" />
-        <item itemvalue="Application.CountNumbersWithExactly3Divisors_2" />
-        <item itemvalue="Application.FIndSquareRootOfNumber_1" />
-        <item itemvalue="Application.RepeatedDigitalSumOFNumber_16" />
+        <item itemvalue="Application.InsertElementAtGivenPositionInArray_2" />
+        <item itemvalue="Application.InsertElementAtBeginningOfArray_1" />
+        <item itemvalue="Application.arrays.arrayTraversal_1.IncreaseEachArrayElementBy5_3" />
+        <item itemvalue="Application.arrays.SearchingElementsInArray_2" />
+        <item itemvalue="Application.CheckIfLargeNumberDivisibleBy13_5" />
       </list>
     </recent_temporary>
   </component>
