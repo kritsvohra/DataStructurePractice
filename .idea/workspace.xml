@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayDeletion_3/DeleteElementFromBeginning_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayDeletion_3/DeleteElementFromGivenPositionInArray_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayDeletion_3/DeleteElementsFromGivenPosition_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayDeletion_3/DeleteOnlyFirstOccurranceOfElementInArray_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayInsertions_2/InsertElementAtEndOfArray_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayDeletion_3/DeleteAllOccurrancesOfElementsInArray_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayDeletion_3/DeleteElementFromEndOfArray_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/linearSearch_4/FindWhetherElementIsPresentInArray_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +52,9 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeleteOnlyFirstOccurranceOfElementInArray_4">
-    <configuration name="DeleteElementFromBeginning_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayDeletion_3.DeleteElementFromBeginning_1" />
+  <component name="RunManager" selected="Application.FindWhetherElementIsPresentInArray_1">
+    <configuration name="DeleteAllOccurrancesOfElementsInArray_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayDeletion_3.DeleteAllOccurrancesOfElementsInArray_5" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteElementFromGivenPositionInArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayDeletion_3.DeleteElementFromGivenPositionInArray_2" />
+    <configuration name="DeleteElementFromEndOfArray_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayDeletion_3.DeleteElementFromEndOfArray_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertElementAtEndOfArray_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayInsertions_2.InsertElementAtEndOfArray_3" />
+    <configuration name="FindWhetherElementIsPresentInArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.linearSearch_4.FindWhetherElementIsPresentInArray_1" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arrayInsertions_2.*" />
+          <option name="PATTERN" value="arrays.linearSearch_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindWhetherElementIsPresentInArray_1" />
+        <item itemvalue="Application.DeleteElementFromEndOfArray_6" />
+        <item itemvalue="Application.DeleteAllOccurrancesOfElementsInArray_5" />
         <item itemvalue="Application.DeleteOnlyFirstOccurranceOfElementInArray_4" />
         <item itemvalue="Application.DeleteElementsFromGivenPosition_3" />
-        <item itemvalue="Application.DeleteElementFromGivenPositionInArray_2" />
-        <item itemvalue="Application.DeleteElementFromBeginning_1" />
-        <item itemvalue="Application.InsertElementAtEndOfArray_3" />
       </list>
     </recent_temporary>
   </component>
