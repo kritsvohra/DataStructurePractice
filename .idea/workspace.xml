@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/ArrayRotateLeft_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/ArrayRotationRight_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/MoveAllZeroesToEndOfArray_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/MinCostToMakeArraySizeOne_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/MinimumIncrementByKOperations_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MoveAllZeroesToEndOfArray_8">
+  <component name="RunManager" selected="Application.MinCostToMakeArraySizeOne_10">
     <configuration name="ArrayRotateLeft_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.ArrayRotateLeft_7" />
       <module name="DataStructurePractice" />
@@ -79,6 +78,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinCostToMakeArraySizeOne_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.MinCostToMakeArraySizeOne_10" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.arrayBasicProblems_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumIncrementByKOperations_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.MinimumIncrementByKOperations_9" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.arrayBasicProblems_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoveAllZeroesToEndOfArray_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.MoveAllZeroesToEndOfArray_8" />
       <module name="DataStructurePractice" />
@@ -92,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.RemoveDuplicatesFromSortedArray_4" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.arrayBasicProblems_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseAnArray_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.ReverseAnArray_5" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.arrayBasicProblems_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCostToMakeArraySizeOne_10" />
+        <item itemvalue="Application.MinimumIncrementByKOperations_9" />
         <item itemvalue="Application.MoveAllZeroesToEndOfArray_8" />
         <item itemvalue="Application.ArrayRotateLeft_7" />
         <item itemvalue="Application.ArrayRotationRight_6" />
-        <item itemvalue="Application.ReverseAnArray_5" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray_4" />
       </list>
     </recent_temporary>
   </component>
@@ -149,5 +148,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/MinimumIncrementByKOperations_9.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
