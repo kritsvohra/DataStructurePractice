@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindMissingAndRepeatingNumbersInArray_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindMissingNumber_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindUniqueNumberInArray_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindRepeatingNumber_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/MaximumSubArraySum_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMissingAndRepeatingNumbersInArray_6">
+  <component name="RunManager" selected="Application.MaximumSubArraySum_8">
     <configuration name="FindMissingAndRepeatingInArray_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindMissingAndRepeatingInArray_6" />
       <module name="DataStructurePractice" />
@@ -92,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindUniqueNumberInArray_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindUniqueNumberInArray_4" />
+    <configuration name="FindRepeatingNumber_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindRepeatingNumber_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfAllSubArray_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.SumOfAllSubArray_3" />
+    <configuration name="MaximumSubArraySum_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.MaximumSubArraySum_8" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumSubArraySum_8" />
+        <item itemvalue="Application.FindRepeatingNumber_7" />
         <item itemvalue="Application.FindMissingAndRepeatingNumbersInArray_6" />
         <item itemvalue="Application.FindMissingAndRepeatingInArray_6" />
         <item itemvalue="Application.FindMissingNumber_5" />
-        <item itemvalue="Application.FindUniqueNumberInArray_4" />
-        <item itemvalue="Application.SumOfAllSubArray_3" />
       </list>
     </recent_temporary>
   </component>
