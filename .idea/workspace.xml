@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/DuplicateWithKDistanceInArray_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/RearrangeArraySuchThatEvenPosGreaterThanOdd_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/SumOfAllSubArray_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindMissingAndRepeatingNumbersInArray_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindMissingNumber_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/FindUniqueNumberInArray_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +52,9 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfAllSubArray_3">
-    <configuration name="DuplicateWithKDistanceInArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.DuplicateWithKDistanceInArray_1" />
+  <component name="RunManager" selected="Application.FindMissingAndRepeatingNumbersInArray_6">
+    <configuration name="FindMissingAndRepeatingInArray_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindMissingAndRepeatingInArray_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinCostToMakeArraySizeOne_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.MinCostToMakeArraySizeOne_10" />
+    <configuration name="FindMissingAndRepeatingNumbersInArray_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindMissingAndRepeatingNumbersInArray_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arrayBasicProblems_6.*" />
+          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumIncrementByKOperations_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayBasicProblems_6.MinimumIncrementByKOperations_9" />
+    <configuration name="FindMissingNumber_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindMissingNumber_5" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arrayBasicProblems_6.*" />
+          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeArraySuchThatEvenPosGreaterThanOdd_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.RearrangeArraySuchThatEvenPosGreaterThanOdd_2" />
+    <configuration name="FindUniqueNumberInArray_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindUniqueNumberInArray_4" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMissingAndRepeatingNumbersInArray_6" />
+        <item itemvalue="Application.FindMissingAndRepeatingInArray_6" />
+        <item itemvalue="Application.FindMissingNumber_5" />
+        <item itemvalue="Application.FindUniqueNumberInArray_4" />
         <item itemvalue="Application.SumOfAllSubArray_3" />
-        <item itemvalue="Application.RearrangeArraySuchThatEvenPosGreaterThanOdd_2" />
-        <item itemvalue="Application.DuplicateWithKDistanceInArray_1" />
-        <item itemvalue="Application.MinCostToMakeArraySizeOne_10" />
-        <item itemvalue="Application.MinimumIncrementByKOperations_9" />
       </list>
     </recent_temporary>
   </component>
