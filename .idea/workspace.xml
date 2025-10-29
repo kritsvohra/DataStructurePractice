@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/EquilibriumIndex_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/TwoSumPairClosestToZero_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/arrayEasyProblems_7/TwoSumPair_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchingSortingalgorithms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchingSortingalgorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchingSortingalgorithms/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,35 +52,22 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSumPairClosestToZero_11">
+  <component name="RunManager" selected="Application.SelectionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchingSortingalgorithms.BubbleSort" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchingSortingalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EquilibriumIndex_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.EquilibriumIndex_9" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMissingAndRepeatingNumbersInArray_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindMissingAndRepeatingNumbersInArray_6" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindRepeatingNumber_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.FindRepeatingNumber_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -105,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchingSortingalgorithms.SelectionSort" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchingSortingalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSumPairClosestToZero_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.TwoSumPairClosestToZero_11" />
       <module name="DataStructurePractice" />
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.TwoSumPairClosestToZero_11" />
         <item itemvalue="Application.EquilibriumIndex_9" />
         <item itemvalue="Application.MaximumSubArraySum_8" />
-        <item itemvalue="Application.FindRepeatingNumber_7" />
-        <item itemvalue="Application.FindMissingAndRepeatingNumbersInArray_6" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +157,11 @@
           <url>file://$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/MinimumIncrementByKOperations_9.java</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchingSortingalgorithms/SelectionSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
