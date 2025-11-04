@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/searchingSortingalgorithms/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searchingSortingalgorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/searchingSortingalgorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/CheckTwoStringsEqualOrNot_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/ConcatenateTwoStrings_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/GenerateAllSubStrings_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/InsertCharacterInString_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/LengthOfSTring_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/RemoveAllOccurrancesOfCharacter_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/RemoveCharacterFromString_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/ReverseAString_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/SearchCharacterInString_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CHeckGivenStringIsPanagramOrNot_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CamelCaseOfGivenSentence_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckForBinaryString_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckIfOneStringIsSubsequenceOfOther_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckIfStringIsSubstringOfOther_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckTwoStringAnagramOfOther_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CountOfSubstringStartANdEndWIth1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/PalindromeCheck_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +66,13 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchingSortingalgorithms.BubbleSort" />
+  <component name="RunManager" selected="Application.CheckTwoStringAnagramOfOther_8">
+    <configuration name="CheckIfOneStringIsSubsequenceOfOther_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CheckIfOneStringIsSubsequenceOfOther_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="searchingSortingalgorithms.*" />
+          <option name="PATTERN" value="strings.easy_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EquilibriumIndex_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.EquilibriumIndex_9" />
+    <configuration name="CheckIfStringIsSubstringOfOther_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CheckIfStringIsSubstringOfOther_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
+          <option name="PATTERN" value="strings.easy_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubArraySum_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.MaximumSubArraySum_8" />
+    <configuration name="CheckTwoStringAnagramOfOther_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CheckTwoStringAnagramOfOther_8" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
+          <option name="PATTERN" value="strings.easy_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchingSortingalgorithms.SelectionSort" />
+    <configuration name="PalindromeCheck_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.easy_2.PalindromeCheck_5" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="searchingSortingalgorithms.*" />
+          <option name="PATTERN" value="strings.easy_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumPairClosestToZero_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.arrayEasyProblems_7.TwoSumPairClosestToZero_11" />
+    <configuration name="strings.easy_2.CHeckGivenStringIsPanagramOrNot_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CHeckGivenStringIsPanagramOrNot_4" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.arrayEasyProblems_7.*" />
+          <option name="PATTERN" value="strings.easy_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.TwoSumPairClosestToZero_11" />
-        <item itemvalue="Application.EquilibriumIndex_9" />
-        <item itemvalue="Application.MaximumSubArraySum_8" />
+        <item itemvalue="Application.CheckTwoStringAnagramOfOther_8" />
+        <item itemvalue="Application.CheckIfOneStringIsSubsequenceOfOther_7" />
+        <item itemvalue="Application.CheckIfStringIsSubstringOfOther_6" />
+        <item itemvalue="Application.PalindromeCheck_5" />
+        <item itemvalue="Application.strings.easy_2.CHeckGivenStringIsPanagramOrNot_4" />
       </list>
     </recent_temporary>
   </component>
@@ -158,9 +172,13 @@
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/searchingSortingalgorithms/SelectionSort.java</url>
-          <line>31</line>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/strings/basic_1/ReverseAString_8.java</url>
+          <line>20</line>
+          <properties class="strings.basic_1.ReverseAString_8" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
