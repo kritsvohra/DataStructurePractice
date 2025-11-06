@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/CheckTwoStringsEqualOrNot_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/ConcatenateTwoStrings_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/GenerateAllSubStrings_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/InsertCharacterInString_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/LengthOfSTring_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/RemoveAllOccurrancesOfCharacter_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/RemoveCharacterFromString_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/ReverseAString_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_1/SearchCharacterInString_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CHeckGivenStringIsPanagramOrNot_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CamelCaseOfGivenSentence_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckForBinaryString_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckIfOneStringIsSubsequenceOfOther_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckIfStringIsSubstringOfOther_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CheckTwoStringAnagramOfOther_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/CountOfSubstringStartANdEndWIth1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/easy_2/PalindromeCheck_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/LongestCommonPrefix_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/RemoveDuplicatesFromSortedArray_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/TwoSum_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +54,13 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckTwoStringAnagramOfOther_8">
-    <configuration name="CheckIfOneStringIsSubsequenceOfOther_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CheckIfOneStringIsSubsequenceOfOther_7" />
+  <component name="RunManager" selected="Application.SearchInsertPosition">
+    <configuration name="LongestCommonPrefix_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.LongestCommonPrefix_2" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.easy_2.*" />
+          <option name="PATTERN" value="leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckIfStringIsSubstringOfOther_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CheckIfStringIsSubstringOfOther_6" />
+    <configuration name="RemoveDuplicatesFromSortedArray_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.RemoveDuplicatesFromSortedArray_3" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.easy_2.*" />
+          <option name="PATTERN" value="leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckTwoStringAnagramOfOther_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CheckTwoStringAnagramOfOther_8" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.RemoveElement" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.easy_2.*" />
+          <option name="PATTERN" value="leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeCheck_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.easy_2.PalindromeCheck_5" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.SearchInsertPosition" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.easy_2.*" />
+          <option name="PATTERN" value="leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="strings.easy_2.CHeckGivenStringIsPanagramOrNot_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.easy_2.CHeckGivenStringIsPanagramOrNot_4" />
+    <configuration name="TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.TwoSum_1" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.easy_2.*" />
+          <option name="PATTERN" value="leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckTwoStringAnagramOfOther_8" />
-        <item itemvalue="Application.CheckIfOneStringIsSubsequenceOfOther_7" />
-        <item itemvalue="Application.CheckIfStringIsSubstringOfOther_6" />
-        <item itemvalue="Application.PalindromeCheck_5" />
-        <item itemvalue="Application.strings.easy_2.CHeckGivenStringIsPanagramOrNot_4" />
+        <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.RemoveDuplicatesFromSortedArray_3" />
+        <item itemvalue="Application.LongestCommonPrefix_2" />
+        <item itemvalue="Application.TwoSum_1" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +159,11 @@
           <url>file://$PROJECT_DIR$/src/arrays/arrayBasicProblems_6/MinimumIncrementByKOperations_9.java</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/arrays/LongestCommonPrefix_2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/strings/basic_1/ReverseAString_8.java</url>
