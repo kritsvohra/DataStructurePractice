@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/LongestCommonPrefix_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/RemoveDuplicatesFromSortedArray_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/TwoSum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/FindIndexOFFirstOccurrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/MergeSortedArray_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/PlusOne_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/ValidParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +54,9 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchInsertPosition">
-    <configuration name="LongestCommonPrefix_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.LongestCommonPrefix_2" />
+  <component name="RunManager" selected="Application.LengthOfLastWord">
+    <configuration name="FindIndexOFFirstOccurrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.FindIndexOFFirstOccurrance" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.RemoveDuplicatesFromSortedArray_3" />
+    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.LengthOfLastWord" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.RemoveElement" />
+    <configuration name="MergeSortedArray_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.MergeSortedArray_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.SearchInsertPosition" />
+    <configuration name="PlusOne_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.PlusOne_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.TwoSum_1" />
+    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.ValidParenthesis" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray_3" />
-        <item itemvalue="Application.LongestCommonPrefix_2" />
-        <item itemvalue="Application.TwoSum_1" />
+        <item itemvalue="Application.LengthOfLastWord" />
+        <item itemvalue="Application.FindIndexOFFirstOccurrance" />
+        <item itemvalue="Application.ValidParenthesis" />
+        <item itemvalue="Application.MergeSortedArray_7" />
+        <item itemvalue="Application.PlusOne_6" />
       </list>
     </recent_temporary>
   </component>
