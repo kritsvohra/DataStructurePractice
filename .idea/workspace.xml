@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/FindIndexOFFirstOccurrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/MergeSortedArray_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/PlusOne_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/IsomorphicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/FindEarliestRepeatingCharacter_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/FindNonRepeatingCharacter_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/KthNonRepeatingCharacter_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/URLifyAString_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +56,48 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LengthOfLastWord">
-    <configuration name="FindIndexOFFirstOccurrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.FindIndexOFFirstOccurrance" />
+  <component name="RunManager" selected="Application.KthNonRepeatingCharacter_3">
+    <configuration name="FindEarliestRepeatingCharacter_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.FindEarliestRepeatingCharacter_2" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindNonRepeatingCharacter_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.FindNonRepeatingCharacter_2" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthNonRepeatingCharacter_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.KthNonRepeatingCharacter_3" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.ReverseString" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -68,51 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.LengthOfLastWord" />
+    <configuration name="URLifyAString_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.URLifyAString_1" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSortedArray_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.MergeSortedArray_7" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlusOne_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.PlusOne_6" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.ValidParenthesis" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.arrays.*" />
+          <option name="PATTERN" value="strings.medium3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LengthOfLastWord" />
-        <item itemvalue="Application.FindIndexOFFirstOccurrance" />
-        <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.MergeSortedArray_7" />
-        <item itemvalue="Application.PlusOne_6" />
+        <item itemvalue="Application.KthNonRepeatingCharacter_3" />
+        <item itemvalue="Application.FindNonRepeatingCharacter_2" />
+        <item itemvalue="Application.FindEarliestRepeatingCharacter_2" />
+        <item itemvalue="Application.URLifyAString_1" />
+        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +166,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/arrays/LongestCommonPrefix_2.java</url>
           <line>23</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/arrays/IsomorphicString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/strings/basic_1/ReverseAString_8.java</url>
