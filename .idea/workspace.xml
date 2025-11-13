@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/IsomorphicString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/medium3/FindEarliestRepeatingCharacter_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/medium3/FindNonRepeatingCharacter_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/medium3/KthNonRepeatingCharacter_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/medium3/URLifyAString_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/CheckIfStringsAreRotationOfEachOther_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/FindkthNonRepeatingCharacter_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/medium3/ValidateIPV4Address_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +52,9 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KthNonRepeatingCharacter_3">
-    <configuration name="FindEarliestRepeatingCharacter_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.medium3.FindEarliestRepeatingCharacter_2" />
+  <component name="RunManager" selected="Application.ValidateIPV4Address_6">
+    <configuration name="CheckIfStringsAreRotationOfEachOther_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.CheckIfStringsAreRotationOfEachOther_4" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -83,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindkthNonRepeatingCharacter_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.FindkthNonRepeatingCharacter_5" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KthNonRepeatingCharacter_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strings.medium3.KthNonRepeatingCharacter_3" />
       <module name="DataStructurePractice" />
@@ -96,21 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.ReverseString" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="URLifyAString_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.medium3.URLifyAString_1" />
+    <configuration name="ValidateIPV4Address_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.medium3.ValidateIPV4Address_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateIPV4Address_6" />
+        <item itemvalue="Application.FindkthNonRepeatingCharacter_5" />
+        <item itemvalue="Application.CheckIfStringsAreRotationOfEachOther_4" />
         <item itemvalue="Application.KthNonRepeatingCharacter_3" />
         <item itemvalue="Application.FindNonRepeatingCharacter_2" />
-        <item itemvalue="Application.FindEarliestRepeatingCharacter_2" />
-        <item itemvalue="Application.URLifyAString_1" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
