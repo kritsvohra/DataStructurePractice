@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="debd1a8b-36c5-4be7-8092-059108c79fcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algomaster/arrays/BestTimeToButAndSellStock_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/arrays/FindMajorityElementInAnArray_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/arrays/MoveZeroesToRight_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/arrays/ProductOfArrayExceptSelf_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/arrays/RemoveDuplicatesFromSortedArray_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/arrays/RotateArrayRight_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/bitmanipulation/FindNumberOf1Bits_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/bitmanipulation/FindSingleNumberInArray_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/IsomorphicStrings_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/MaximumNumberOfBalloon_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/NumberOfGoodPairs_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/strings/IsSubsequence_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/strings/LongestCommonPrefix_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/strings/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algomaster/strings/ValidPalindrome_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/ContainsDuplicate_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/GroupAnagrams_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algomaster/hashtables/RansonNote_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algomaster/twoPointers/MergeSortedArray_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algomaster/twoPointers/TwoSum_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,35 +54,9 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IsomorphicStrings_4">
-    <configuration name="FindNumberOf1Bits_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algomaster.bitmanipulation.FindNumberOf1Bits_2" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algomaster.bitmanipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindSingleNumberInArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algomaster.bitmanipulation.FindSingleNumberInArray_1" />
-      <module name="DataStructurePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algomaster.bitmanipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsomorphicStrings_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algomaster.hashtables.IsomorphicStrings_4" />
+  <component name="RunManager" selected="Application.TwoSum_2">
+    <configuration name="ContainsDuplicate_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algomaster.hashtables.ContainsDuplicate_6" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumberOfBalloon_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algomaster.hashtables.MaximumNumberOfBalloon_2" />
+    <configuration name="GroupAnagrams_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algomaster.hashtables.GroupAnagrams_7" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
@@ -118,12 +81,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfGoodPairs_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algomaster.hashtables.NumberOfGoodPairs_3" />
+    <configuration name="RansonNote_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algomaster.hashtables.RansonNote_5" />
       <module name="DataStructurePractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algomaster.hashtables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algomaster.twoPointers.TwoSum_2" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algomaster.twoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algomaster.twoPointers.MergeSortedArray_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algomaster.twoPointers.MergeSortedArray_6" />
+      <module name="DataStructurePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algomaster.twoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsomorphicStrings_4" />
-        <item itemvalue="Application.NumberOfGoodPairs_3" />
-        <item itemvalue="Application.MaximumNumberOfBalloon_2" />
-        <item itemvalue="Application.FindNumberOf1Bits_2" />
-        <item itemvalue="Application.FindSingleNumberInArray_1" />
+        <item itemvalue="Application.TwoSum_2" />
+        <item itemvalue="Application.algomaster.twoPointers.MergeSortedArray_6" />
+        <item itemvalue="Application.GroupAnagrams_7" />
+        <item itemvalue="Application.ContainsDuplicate_6" />
+        <item itemvalue="Application.RansonNote_5" />
       </list>
     </recent_temporary>
   </component>
